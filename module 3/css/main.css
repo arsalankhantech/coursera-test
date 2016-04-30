@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box ;
+}
+
+#header {
+    background-color: green ; 
+}
+nav h1{
+    display: inline-block ;
+}
+
+button.navbar-toggle {
+    margin-top: 18px ;
+}
+
+section {
+    padding:0 auto;
+    size: 100%;
+    min-height: 500px;
+    background-color: lightgoldenrodyellow ;
+}
+h2{
+    margin bottom: 10px ;
+}
